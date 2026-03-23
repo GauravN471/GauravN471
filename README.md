@@ -62,7 +62,7 @@ I build end-to-end analytics solutions — from SQL queries and Excel P&L models
 
 ## 🎓 Education & Background
 
-- 🎓 **MSc International Business & Finance** — University of Dundee, UK
+- 🎓 **Master's in International Business & Finance** — University of Dundee, UK
 - 🏢 **Data Analyst** — Wipro (14 months · Bloomberg ESG · 1,700+ companies)
 - 📜 Certifications: Power BI · SQL · Excel — Codebasics
 
